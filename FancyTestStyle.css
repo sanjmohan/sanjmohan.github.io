@@ -1,0 +1,17 @@
+h1{
+	background-color: #4466ff;
+	font-family: arial, serif;
+	font-size: 72px;
+	margin: 0 -550px;
+	padding: 20px;
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	left: 50%;
+	width: 1100px;
+	border-radius: 100px;
+}
+
+body{
+	background-image: url("http://i.imgur.com/stZDusV.jpg");
+}
